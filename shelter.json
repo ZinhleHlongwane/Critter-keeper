@@ -1,0 +1,9 @@
+{
+  "width": 10,
+  "height": 10,
+  "hazards": [
+    { "type": "pond", "x": 2, "y": 3 },
+    { "type": "thornbush", "x": -2, "y": -3 },
+    { "type": "mudpuddle", "x": 0, "y": 4 }
+  ]
+}
