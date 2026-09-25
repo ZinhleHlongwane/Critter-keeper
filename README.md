@@ -136,3 +136,7 @@ end-to-end request flows through the server's dispatcher.
 ---
 
 *A personal project exploring client-server architecture, the command pattern, and polymorphism in Java.*
+
+## WeThinkCode_ Verification
+
+WTC-58F79LXA
